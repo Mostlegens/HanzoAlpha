@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "XanzBot-Mdོ" //namabot kalian
+global.botname = "𝙃𝘼𝙉𝙕𝙊 𝕸𝕺🍂" //namabot kalian
 global.ownername= "Hanzo ID" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/MostLegens" //bebas asal jan hapus
